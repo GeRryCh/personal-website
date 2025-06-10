@@ -19,9 +19,8 @@ title = "German Velibekov"
 
   # A list of links to your social and professional profiles.
   links = [
-    { github = "https://github.com/your-username" },
-    { linkedin = "https://linkedin.com/in/your-username" },
-    { twitter = "https://twitter.com/your-username" },
+    { linkedin = "https://www.linkedin.com/in/ghermanvvelibekov" },
+    { github = "https://github.com/GeRryCh" }
   ]
 
 [params]
