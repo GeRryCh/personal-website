@@ -2,7 +2,27 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "German Velibekov"
+
+[params.author]
+  # Your name.
+  name = "German Velibekov"
+
+  # Your profile picture. Path is relative to the `assets/` directory.
+  image = "img/author.jpg"
+
+  # A short headline that appears below your name.
+  headline = "AI Automation Engineer"
+
+  # A longer bio for the 'About' section or author box.
+  bio = "Passionate about building intelligent systems and scalable infrastructure."
+
+  # A list of links to your social and professional profiles.
+  links = [
+    { github = "https://github.com/your-username" },
+    { linkedin = "https://linkedin.com/in/your-username" },
+    { twitter = "https://twitter.com/your-username" },
+  ]
 
 [params]
   displayName = "EN"
