@@ -19,8 +19,10 @@ title = "German Velibekov"
 
   # A list of links to your social and professional profiles.
   links = [
+    { whatsapp = "https://wa.me/972547258464" },
+    { email = "mailto:german.velibekov@gmail.com" },
     { linkedin = "https://www.linkedin.com/in/ghermanvvelibekov" },
-    { github = "https://github.com/GeRryCh" }
+    { github = "https://github.com/GeRryCh" },
   ]
 
 [params]
